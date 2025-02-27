@@ -1,5 +1,5 @@
-- 👋 Hi, I’m IAN KINGORI GITHINJI,a student in IYF learning programing.
-- 👀 I’m interested in programing and would like to know some of the coding lounguags such as java,html, css,c++ and the possible fundamental required in programing..
+- 👋 Hi, I’m IAN KINGORI GITHINJI,a member in IYF learning programing.
+- 👀 I’m  in programing and would like to know some of the coding lounguags such as java,html, css,c++, python and the possible fundamental required in programing..
 - 🌱 I’m currently learning programing...
 - 💞️ I’m looking to collaborate on with this development skill and enhance my skills in programing..
 - 📫 How to reach me one may reach me by (0117307087)or(gkkingori51@gmail.com)...
